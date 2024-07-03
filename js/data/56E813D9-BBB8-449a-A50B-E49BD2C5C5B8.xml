@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1:1", "", "Pegawai", "EARoot/EA1/EA8.html", "6.png", "E201", "0", "", "Actor0","{68564612-36BE-4656-859D-445A22D130A4}");
+tocTab[tocTab.length] = new Array("0.1:2", "", "Penanggung Jawab Kegiatan", "EARoot/EA1/EA9.html", "6.png", "E321", "0", "", "Actor0","{3A50F0ED-7CB5-4caa-BE15-860FF6AD4E5B}");
+tocTab[tocTab.length] = new Array("0.1:3", "", "Sekretaris", "EARoot/EA1/EA10.html", "6.png", "E200", "0", "", "Actor0","{1FE803F6-F8D0-458d-BE27-7872F0574C55}");
+tocTab[tocTab.length] = new Array("0.1:4", "", "Perencana", "EARoot/EA1/EA11.html", "6.png", "E25", "0", "", "Actor0","{DDCB7719-B6B5-4c3d-9144-E7C741D8DF41}");
+tocTab[tocTab.length] = new Array("0.1:5", "", "Ketua Tim Pelaksana", "EARoot/EA1/EA12.html", "6.png", "E324", "E201", "", "Actor0","{4568898F-CCE7-49ab-8FE0-7BCF4AFBE1AD}");
+tocTab[tocTab.length] = new Array("0.1:6", "", "PIC", "EARoot/EA1/EA13.html", "6.png", "E325", "E201", "", "Actor0","{765942E6-C547-4502-A5D5-8D43318C8CA3}");
