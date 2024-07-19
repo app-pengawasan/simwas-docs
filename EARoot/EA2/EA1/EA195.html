@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Generate Laporan Jam Kerja Pegawai</title>
+<link href="../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA196.png" usemap="#EA196" border="0" />
+
+<MAP NAME="EA196">
+<area shape="rect" coords="199,227,260,263" href="EA200.html" target="_self">
+<area shape="rect" coords="205,171,266,207" href="EA198.html" target="_self">
+<area shape="rect" coords="410,49,520,119" href="EA215.html" target="_self">
+<area shape="rect" coords="411,181,521,251" href="EA212.html" target="_self">
+<area shape="rect" coords="171,193,213,235" href="EA209.html" target="_self">
+<area shape="rect" coords="564,45,674,120" href="EA218.html" target="_self">
+<area shape="rect" coords="765,236,798,259" href="EA199.html" target="_self">
+<area shape="rect" coords="781,186,809,207" href="EA201.html" target="_self">
+<area shape="rect" coords="713,220,753,240" href="EA202.html" target="_self">
+<area shape="rect" coords="741,194,783,236" href="EA208.html" target="_self">
+<area shape="rect" coords="710,45,820,121" href="EA217.html" target="_self">
+<area shape="rect" coords="850,185,960,245" href="EA211.html" target="_self">
+<area shape="rect" coords="1009,67,1039,97" href="EA214.html" target="_self">
+<area shape="rect" coords="848,47,957,117" href="EA219.html" target="_self">
+<area shape="rect" coords="566,185,676,245" href="EA210.html" target="_self">
+<area shape="rect" coords="259,49,369,118" href="EA216.html" target="_self">
+<area shape="rect" coords="258,180,368,250" href="EA213.html" target="_self">
+<area shape="rect" coords="91,199,121,229" href="EA207.html" target="_self">
+<area shape="rect" coords="50,151,1074,279" href="EA205.html" target="_self">
+<area shape="rect" coords="30,151,1074,279" href="EA204.html" target="_self">
+<area shape="rect" coords="30,10,1073,151" href="EA206.html" target="_self">
+<area shape="rect" coords="10,10,1073,279" href="EA203.html" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">Generate Laporan Jam Kerja Pegawai : Business Process diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">7/12/2024 12:08:36 AM</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">7/12/2024 1:02:16 AM</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">user</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{3578746A-1EBB-4dd1-9626-DCB4B055F6E0}</td>
+		</tr>
+	</table>
+	
+</div>
+ 
+</body>
+</html>

@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.3.13:1", "", "Penilaian Berjenjang", "EARoot/EA3/EA13/EA1047.html", "185.png", "72", "0", "", "Sequence diagram0","{B91AF9C9-820E-4cd6-ACED-C12CAEE762BB}");
+tocTab[tocTab.length] = new Array("0.3.13.1", "1", "Elements", "EARoot/EA3/EA13/EA1/EA1051.html", "4.png", "", "", "{AF942381-2BE2-4ed8-B709-4A140B3B4F74}", "Package");

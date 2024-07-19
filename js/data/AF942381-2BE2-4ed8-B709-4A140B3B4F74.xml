@@ -1,0 +1,9 @@
+tocTab[tocTab.length] = new Array("0.3.13.1:1", "", "Ketua Tim", "EARoot/EA3/EA13/EA1/EA1052.html", "6.png", "E977", "0", "", "Actor0","{2547205D-BAED-403a-A545-867249C273E9}");
+tocTab[tocTab.length] = new Array("0.3.13.1:2", "", "«control» ManajerKelolaNilai", "EARoot/EA3/EA13/EA1/EA1053.html", "57.png", "E982", "0", "", "Sequence0","{AB5453F5-3B12-4975-A598-006B77982CC5}");
+tocTab[tocTab.length] = new Array("0.3.13.1:3", "", "«boundary» MenuDaftarRealisasi", "EARoot/EA3/EA13/EA1/EA1054.html", "57.png", "E981", "0", "", "Sequence0","{8A2A9F69-E0CD-4cb5-9046-DB4EAC4A20DE}");
+tocTab[tocTab.length] = new Array("0.3.13.1:4", "", "«boundary» MenuNilaiHasilKerja", "EARoot/EA3/EA13/EA1/EA1055.html", "57.png", "E980", "0", "", "Sequence0","{7F856BDC-C25D-46fe-9305-02B21C588855}");
+tocTab[tocTab.length] = new Array("0.3.13.1:5", "", "«boundary» MenuUtama", "EARoot/EA3/EA13/EA1/EA1056.html", "57.png", "E984", "0", "", "Sequence0","{DC571954-9FB4-4e41-A810-4BA1EDB8F54A}");
+tocTab[tocTab.length] = new Array("0.3.13.1:6", "", "Pengendali Teknis", "EARoot/EA3/EA13/EA1/EA1057.html", "6.png", "E976", "0", "", "Actor0","{09ECBBD3-9842-46cc-8945-1730DAA059A1}");
+tocTab[tocTab.length] = new Array("0.3.13.1:7", "", "PIC", "EARoot/EA3/EA13/EA1/EA1058.html", "6.png", "E979", "0", "", "Actor0","{E6CC4592-E449-4aea-802D-E67D7CB00EC4}");
+tocTab[tocTab.length] = new Array("0.3.13.1:8", "", "Pilihan?", "EARoot/EA3/EA13/EA1/EA1059.html", "101.png", "E978", "0", "", "InteractionFragment0","{2C458A23-6D30-491d-AADF-03D358813980}");
+tocTab[tocTab.length] = new Array("0.3.13.1:9", "", "«entity» RealisasiKinerja", "EARoot/EA3/EA13/EA1/EA1060.html", "57.png", "E983", "0", "", "Sequence0","{AFCDB2B7-6D8F-4a9e-96C8-C3BDC846FAC1}");

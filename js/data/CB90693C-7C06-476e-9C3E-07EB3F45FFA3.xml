@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.3.8:2", "", "Kelola Realisasi IKU", "EARoot/EA3/EA8/EA998.html", "207.png", "E249", "0", "", "Interaction0","{8A75B2DF-DAAF-42c7-B33D-3D19FC5F64FF}");
+tocTab[tocTab.length] = new Array("0.3.8:1", "", "Kelola Realisasi IKU", "EARoot/EA3/EA8/EA995.html", "185.png", "31", "E249", "", "Sequence diagram0","{B6C3313E-05F2-4c57-9F9E-FED70E1C1A46}");
+tocTab[tocTab.length] = new Array("0.3.8:3", "", "«boundary» Halaman Edit Realisasi", "EARoot/EA3/EA8/EA999.html", "57.png", "E252", "E249", "", "Sequence0","{1A2226E2-D85A-4988-A094-7D4F27FF69AA}");
+tocTab[tocTab.length] = new Array("0.3.8:4", "", "«boundary» Halaman Kelola Realisasi IKU", "EARoot/EA3/EA8/EA1000.html", "57.png", "E251", "E249", "", "Sequence0","{4F635D30-14FB-4c72-8E14-B71F8EB90B36}");
+tocTab[tocTab.length] = new Array("0.3.8:5", "", "«boundary» Halaman Lihat Realisasi", "EARoot/EA3/EA8/EA1001.html", "57.png", "E253", "E249", "", "Sequence0","{D8A1CAB4-F463-4843-AC2C-210562EB4018}");
+tocTab[tocTab.length] = new Array("0.3.8:6", "", "Perencana", "EARoot/EA3/EA8/EA1002.html", "6.png", "E250", "E249", "", "Actor0","{C5BD5262-EAC6-43c5-96E2-EEB58E9B5F55}");
+tocTab[tocTab.length] = new Array("0.3.8:7", "", "«entity» Realisasi IKU", "EARoot/EA3/EA8/EA1003.html", "57.png", "E255", "E249", "", "Sequence0","{4A9E0A59-2B68-44ee-B41C-00F1CA96B4E1}");
+tocTab[tocTab.length] = new Array("0.3.8:8", "", "«control» Realisasi IKU Controller", "EARoot/EA3/EA8/EA1004.html", "57.png", "E254", "E249", "", "Sequence0","{12700A2B-E45D-4a0c-A21E-335EF9750CB3}");

@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.3.6:1", "", "Kelola Kompetensi Pegawai", "EARoot/EA3/EA6/EA969.html", "185.png", "70", "0", "", "Sequence diagram0","{8F7A018F-ED5F-4f63-A7FC-9CE2EC3AC705}");
+tocTab[tocTab.length] = new Array("0.3.6.1", "1", "Elements", "EARoot/EA3/EA6/EA1/EA973.html", "4.png", "", "", "{28F12189-C64C-49f0-AFD6-23C3F72E33B2}", "Package");

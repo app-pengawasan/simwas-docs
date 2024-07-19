@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.3.15.1:1", "", "Analis SDM", "EARoot/EA3/EA15/EA1/EA1082.html", "6.png", "E998", "0", "", "Actor0","{7ED7FB94-1A31-4cfe-9EBD-5D2F546A16FB}");
+tocTab[tocTab.length] = new Array("0.3.15.1:2", "", "Kompetensi Sesuai?", "EARoot/EA3/EA15/EA1/EA1083.html", "101.png", "E999", "0", "", "InteractionFragment0","{A19B250E-7D46-444c-A734-B6AC8EFE9281}");
+tocTab[tocTab.length] = new Array("0.3.15.1:3", "", "«entity» KompetensiPegawai", "EARoot/EA3/EA15/EA1/EA1084.html", "57.png", "E1004", "0", "", "Sequence0","{A8A51F36-7258-4b4a-B336-FAA424598DFA}");
+tocTab[tocTab.length] = new Array("0.3.15.1:4", "", "«control» ManajerKelolaKompetensi", "EARoot/EA3/EA15/EA1/EA1085.html", "57.png", "E1003", "0", "", "Sequence0","{98E1B4FB-ADE9-40e1-9E4E-DF3C8FE1301D}");
+tocTab[tocTab.length] = new Array("0.3.15.1:5", "", "«boundary» MenuDetailKompetensi", "EARoot/EA3/EA15/EA1/EA1086.html", "57.png", "E1000", "0", "", "Sequence0","{1EB36820-2CA1-4997-8403-360B5EAF5518}");
+tocTab[tocTab.length] = new Array("0.3.15.1:6", "", "«boundary» MenuKelolaKompetensi", "EARoot/EA3/EA15/EA1/EA1087.html", "57.png", "E1001", "0", "", "Sequence0","{4DB6D6DD-774E-4362-8BD5-0040B201A870}");
+tocTab[tocTab.length] = new Array("0.3.15.1:7", "", "«boundary» MenuUtama", "EARoot/EA3/EA15/EA1/EA1088.html", "57.png", "E1002", "0", "", "Sequence0","{53291FF1-4257-4572-9970-AC32B5D3B3EC}");

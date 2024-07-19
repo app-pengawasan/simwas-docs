@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.3.7.1:1", "", "«control» ManajerKelolaNilai", "EARoot/EA3/EA7/EA1/EA988.html", "57.png", "E973", "0", "", "Sequence0","{751F2319-B71C-4ab0-8301-BB278AE5A889}");
+tocTab[tocTab.length] = new Array("0.3.7.1:2", "", "«boundary» MenuDetailTugas", "EARoot/EA3/EA7/EA1/EA989.html", "57.png", "E974", "0", "", "Sequence0","{ECA688E8-37BA-4897-94A8-FEFDE9B08A89}");
+tocTab[tocTab.length] = new Array("0.3.7.1:3", "", "«boundary» MenuPenilaianKinerjaPegawai", "EARoot/EA3/EA7/EA1/EA990.html", "57.png", "E971", "0", "", "Sequence0","{16CF1F79-49DD-4a5e-A99E-62C3125C7DFD}");
+tocTab[tocTab.length] = new Array("0.3.7.1:4", "", "«boundary» MenuUtama", "EARoot/EA3/EA7/EA1/EA991.html", "57.png", "E970", "0", "", "Sequence0","{045F6B27-370B-472f-85FB-6426D57FA2B9}");
+tocTab[tocTab.length] = new Array("0.3.7.1:5", "", "«entity» NilaiInspektur", "EARoot/EA3/EA7/EA1/EA992.html", "57.png", "E972", "0", "", "Sequence0","{5543FCE1-48D5-48b7-9D8A-D655AD47C8E9}");
+tocTab[tocTab.length] = new Array("0.3.7.1:6", "", "Pilihan?", "EARoot/EA3/EA7/EA1/EA993.html", "101.png", "E968", "0", "", "InteractionFragment0","{C4E8EB4F-F5B1-428e-BFA4-FFA998E9EDC5}");
+tocTab[tocTab.length] = new Array("0.3.7.1:7", "", "Pimpinan", "EARoot/EA3/EA7/EA1/EA994.html", "6.png", "E969", "0", "", "Actor0","{DED19748-2484-42aa-ACED-B7FC56A9C29A}");

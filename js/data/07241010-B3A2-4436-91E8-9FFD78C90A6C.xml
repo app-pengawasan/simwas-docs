@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.3.1.1:1", "", "Admin", "EARoot/EA3/EA1/EA1/EA906.html", "6.png", "E916", "0", "", "Actor0","{22233B72-AD67-40d3-9B35-21BD0AC7F29D}");
+tocTab[tocTab.length] = new Array("0.3.1.1:2", "", "«entity» Aktivitas", "EARoot/EA3/EA1/EA1/EA907.html", "57.png", "E925", "0", "", "Sequence0","{AFF5CDC8-09D4-4c4a-9C60-30C544002F90}");
+tocTab[tocTab.length] = new Array("0.3.1.1:3", "", "Jenis laporan?", "EARoot/EA3/EA1/EA1/EA908.html", "101.png", "E920", "0", "", "InteractionFragment0","{AF91CE00-B4ED-490f-B358-FB3C6EA13E61}");
+tocTab[tocTab.length] = new Array("0.3.1.1:4", "", "«control» ManajerRealisasiJamKerja", "EARoot/EA3/EA1/EA1/EA909.html", "57.png", "E922", "0", "", "Sequence0","{30179075-66EC-476e-BE55-F7D4346360E5}");
+tocTab[tocTab.length] = new Array("0.3.1.1:5", "", "«control» ManajerRencanaJamKerja", "EARoot/EA3/EA1/EA1/EA910.html", "57.png", "E924", "0", "", "Sequence0","{759DDB1A-2BB1-404b-A53F-E246105F81B3}");
+tocTab[tocTab.length] = new Array("0.3.1.1:6", "", "«boundary» MenuRealisasiJamKerja", "EARoot/EA3/EA1/EA1/EA911.html", "57.png", "E923", "0", "", "Sequence0","{681CCECE-F3A2-4ef0-A71D-B24E8D2E9FDD}");
+tocTab[tocTab.length] = new Array("0.3.1.1:7", "", "«boundary» MenuRencanaJamKerja", "EARoot/EA3/EA1/EA1/EA912.html", "57.png", "E921", "0", "", "Sequence0","{041BDBB6-4C82-4cf2-90A0-E332A72E4183}");
+tocTab[tocTab.length] = new Array("0.3.1.1:8", "", "«boundary» MenuUtama", "EARoot/EA3/EA1/EA1/EA913.html", "57.png", "E927", "0", "", "Sequence0","{E22DA2EC-173D-425a-A834-5673C8550071}");
+tocTab[tocTab.length] = new Array("0.3.1.1:9", "", "Pegawai", "EARoot/EA3/EA1/EA1/EA914.html", "6.png", "E918", "0", "", "Actor0","{4FF78351-33A1-493e-9034-2FD2B86DB334}");
+tocTab[tocTab.length] = new Array("0.3.1.1:10", "", "«entity» PelaksanaTugas", "EARoot/EA3/EA1/EA1/EA915.html", "57.png", "E926", "0", "", "Sequence0","{DE3060AF-17D8-47f0-A9A4-188402F158DC}");
+tocTab[tocTab.length] = new Array("0.3.1.1:11", "", "Unduh laporan?", "EARoot/EA3/EA1/EA1/EA916.html", "101.png", "E919", "0", "", "InteractionFragment0","{8CD19D72-D548-4ae2-B07D-DE38D7DAAC4E}");
+tocTab[tocTab.length] = new Array("0.3.1.1:12", "", "Unduh laporan?", "EARoot/EA3/EA1/EA1/EA917.html", "101.png", "E917", "0", "", "InteractionFragment0","{2507E188-EFD2-45ad-8836-A9E3D750FE58}");

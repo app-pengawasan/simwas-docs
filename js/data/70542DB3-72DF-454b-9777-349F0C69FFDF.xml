@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.3.12:2", "", "Interaction", "EARoot/EA3/EA12/EA1040.html", "207.png", "E311", "0", "", "Interaction0","{AF7A5787-80B1-4aa7-8BDA-C62D9F82EC63}");
+tocTab[tocTab.length] = new Array("0.3.12:1", "", "Kelola Usulan Surat", "EARoot/EA3/EA12/EA1037.html", "185.png", "34", "E311", "", "Sequence diagram0","{B2090B81-F248-4635-9EAA-000975383AFD}");
+tocTab[tocTab.length] = new Array("0.3.12:3", "", "«boundary» Halaman Detail Usulan Surat", "EARoot/EA3/EA12/EA1041.html", "57.png", "E315", "E311", "", "Sequence0","{4A071CBB-D065-4661-9B2E-E8A2DFCBA040}");
+tocTab[tocTab.length] = new Array("0.3.12:4", "", "«boundary» Halaman Kelola Usulan Surat", "EARoot/EA3/EA12/EA1042.html", "57.png", "E313", "E311", "", "Sequence0","{93E3CCED-0032-4fa8-865F-5F76B6900E52}");
+tocTab[tocTab.length] = new Array("0.3.12:5", "", "«boundary» Object2", "EARoot/EA3/EA12/EA1043.html", "57.png", "E314", "E311", "", "Sequence0","{435E46F0-02D0-4ec4-8F5E-01252D2A8D48}");
+tocTab[tocTab.length] = new Array("0.3.12:6", "", "Sekretaris", "EARoot/EA3/EA12/EA1044.html", "6.png", "E312", "E311", "", "Actor0","{84A0D47E-FD82-48a3-A7A2-06F66BA97056}");
+tocTab[tocTab.length] = new Array("0.3.12:7", "", "«entity» Usulan Surat", "EARoot/EA3/EA12/EA1045.html", "57.png", "E316", "E311", "", "Sequence0","{48DF7B5A-F332-43b5-BF48-4E7FB6D0A5FE}");
+tocTab[tocTab.length] = new Array("0.3.12:8", "", "«control» Usulan Surat Controller", "EARoot/EA3/EA12/EA1046.html", "57.png", "E317", "E311", "", "Sequence0","{92307E58-D4A8-45d4-957E-A053DCCB4A23}");
